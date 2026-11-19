@@ -1,18 +1,20 @@
 # Project 02 Proposal: <your project title>
 
-**Team members:** <name(s)>
+**Team members:** Aaron Joseph
 
 See the [Project 02 instructions](https://data385.github.io/project/proj02_wholegame.html) for what goes in each section. Bullet points are great. Put any images in an `img/` folder.
 
 ## 1. Problem statement
 
 _Who has the problem, what decision or need it involves, why it matters, and what you expect to find._
-
+* Who: Restaurant owners in Chicago.
+* Decisions: 
 
 ## 2. Research question
 
 _A clear association between a response and at least one predictor variable._
 
+* What time of year are most restaurants under inspection most likely to fail?
 
 ## 3. Data acquisition
 
